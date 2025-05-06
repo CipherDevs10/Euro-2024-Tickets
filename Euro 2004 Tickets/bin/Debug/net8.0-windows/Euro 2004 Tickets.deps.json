@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Euro 2004 Tickets/1.0.0": {
+        "runtime": {
+          "Euro 2004 Tickets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Euro 2004 Tickets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

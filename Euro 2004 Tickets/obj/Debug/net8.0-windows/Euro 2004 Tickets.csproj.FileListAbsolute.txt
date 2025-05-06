@@ -1,0 +1,38 @@
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\bin\Debug\net8.0-windows\Euro 2004 Tickets.exe
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\bin\Debug\net8.0-windows\Euro 2004 Tickets.deps.json
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\bin\Debug\net8.0-windows\Euro 2004 Tickets.runtimeconfig.json
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\bin\Debug\net8.0-windows\Euro 2004 Tickets.dll
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\bin\Debug\net8.0-windows\Euro 2004 Tickets.pdb
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro_2004_Tickets.Euro2024Tickets.resources
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro 2004 Tickets.csproj.GenerateResource.cache
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro 2004 Tickets.GeneratedMSBuildEditorConfig.editorconfig
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro 2004 Tickets.AssemblyInfoInputs.cache
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro 2004 Tickets.AssemblyInfo.cs
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro 2004 Tickets.csproj.CoreCompileInputs.cache
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro 2004 Tickets.dll
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\refint\Euro 2004 Tickets.dll
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro 2004 Tickets.pdb
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro 2004 Tickets.genruntimeconfig.cache
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\ref\Euro 2004 Tickets.dll
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro_2004_Tickets.Properties.Resources.resources
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro_2004_Tickets.Login.resources
+N:\DEV\C#\Euro 2004 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro_2004_Tickets.SignUpForm.resources
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\bin\Debug\net8.0-windows\Euro 2004 Tickets.exe
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\bin\Debug\net8.0-windows\Euro 2004 Tickets.deps.json
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\bin\Debug\net8.0-windows\Euro 2004 Tickets.runtimeconfig.json
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\bin\Debug\net8.0-windows\Euro 2004 Tickets.dll
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\bin\Debug\net8.0-windows\Euro 2004 Tickets.pdb
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro_2004_Tickets.Euro2024Tickets.resources
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro_2004_Tickets.Login.resources
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro_2004_Tickets.Properties.Resources.resources
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro_2004_Tickets.SignUpForm.resources
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro 2004 Tickets.csproj.GenerateResource.cache
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro 2004 Tickets.GeneratedMSBuildEditorConfig.editorconfig
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro 2004 Tickets.AssemblyInfoInputs.cache
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro 2004 Tickets.AssemblyInfo.cs
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro 2004 Tickets.csproj.CoreCompileInputs.cache
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro 2004 Tickets.dll
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\refint\Euro 2004 Tickets.dll
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro 2004 Tickets.pdb
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\Euro 2004 Tickets.genruntimeconfig.cache
+N:\DEV\C#\Euro 2024 Tickets\Euro 2004 Tickets\obj\Debug\net8.0-windows\ref\Euro 2004 Tickets.dll
